@@ -49,8 +49,8 @@ This repository contains a **base application** for a **modern campus digital tw
 ## **Development Setup**  
 
 ### **Requirements**  
-- **Node.js** (v16 or later)  
-- **npm** (v7 or later)  
+- **Node.js** 
+- **npm** 
 
 ### **Steps to Run Locally**  
 1. Clone the repository:  
