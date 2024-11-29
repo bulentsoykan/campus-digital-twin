@@ -3,7 +3,7 @@
 This repository contains a **base application** for a **modern campus digital twin** of the University of Central Florida (UCF). The application is built with **Cesium**, **React**, and **TypeScript**, offering a foundation for developers and researchers to expand upon for their specific use cases.  
 
 <div align="center">
-  <img src="./public/digital-twin.gif" alt="Digital Twin Preview" style="width: 80%; height: auto;">
+  <img src="./public/digital-twin.gif" alt="Digital Twin Preview" style="width: 200%; height: auto;">
 </div>
 
 ---
