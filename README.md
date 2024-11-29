@@ -61,9 +61,11 @@ This repository contains a **base application** for a **modern campus digital tw
 2. Install dependencies:
 
    ```bash
-npm install
+    npm install
+   ```
 
 3. Start the development server:
 
    ```bash
-npm start
+    npm start
+   ```
