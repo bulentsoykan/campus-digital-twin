@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Import Cesium CSS */
+@import "cesium/Build/Cesium/Widgets/widgets.css";

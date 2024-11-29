@@ -1,0 +1,6 @@
+// Cesium configuration
+export const CESIUM_TOKEN = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiJlYjQ4ZGZiNi0yMGM2LTQ3ODUtYmY3My1jODRkY2VjMGVlNjgiLCJpZCI6MTg2MjE5LCJpYXQiOjE3MDI5NDQ3Mjd9.XcKpgANc_-gP2NSHcxwzvcYeKN0j2iWxvBJoWAvnS8Q';
+
+export const CESIUM_IMAGERY_PROVIDER = {
+  assetId: 3,
+};
