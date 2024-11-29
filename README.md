@@ -57,3 +57,13 @@ This repository contains a **base application** for a **modern campus digital tw
    ```bash
    git clone https://github.com/your-repo/ucf-digital-twin.git
    cd ucf-digital-twin
+
+2. Install dependencies:
+
+   ```bash
+npm install
+
+3. Start the development server:
+
+   ```bash
+npm start
