@@ -55,7 +55,7 @@ This repository contains a **base application** for a **modern campus digital tw
 ### **Steps to Run Locally**  
 1. Clone the repository:  
    ```bash
-   git clone [https://github.com/your-repo/ucf-digital-twin.git](https://github.com/bulentsoykan/campus-digital-twin.git)
+   git clone https://github.com/your-repo/ucf-digital-twin.git
    cd campus-digital-twin
 
 2. Install dependencies:
